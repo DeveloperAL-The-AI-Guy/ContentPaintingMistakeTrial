@@ -1,0 +1,6 @@
+{
+  "name": "Alberta 1905 → AI Future",
+  "description": "An experimental UI/UX design specimen blending historical 1905 Alberta with the futuristic AI presence of Amii.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
